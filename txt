@@ -1,3 +1,5 @@
 Ideas :
 
 Traceroute + Memoisation/ML
+Déléguer la requête DNS à un autre serveur qu'on contacte avec un protocole différent
+
